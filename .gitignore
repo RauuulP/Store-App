@@ -1,0 +1,13 @@
+# Node.js modules
+node_modules/
+
+# Log files
+npm-debug.log
+
+# System files
+.DS_Store
+
+# Editor files
+.vscode/
+*.sublime-workspace
+*.sublime-project
